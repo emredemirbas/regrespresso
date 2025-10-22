@@ -1,12 +1,14 @@
 # Regrespresso
 
+<img width="1024" height="1024" alt="regrespresso_logo" src="https://github.com/user-attachments/assets/47f8de6b-36c9-4679-b2c2-d285d804ab9a" />
+
 ### Predicting California Housing Prices (Hands-On Machine Learning, Chapter 2)
 
 ---
 
 ## Overview
 
-**Regrespresso** is an educational project based on **Chapter 2: "End-to-End Machine Learning Project"** from *Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow* by **Aurélien Géron** (O’Reilly, 2nd Edition).
+**Regrespresso** is an educational project based on [**Chapter 2: "End-to-End Machine Learning Project"** from *Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow* by **Aurélien Géron** (O’Reilly, 3rd Edition)](https://github.com/ageron/handson-ml3).
 
 The objective is to predict **median house values** in California districts using the **California Housing dataset**.  
 This repository combines:
