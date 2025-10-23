@@ -1,8 +1,5 @@
 # Regrespresso
 
-
-### Predicting California Housing Prices (Hands-On Machine Learning, Chapter 2)
-
 ---
 
 ## Overview
